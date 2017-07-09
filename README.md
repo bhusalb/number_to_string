@@ -1,2 +1,3 @@
-# number_to_string
-function that converts number into string
+# Introduction
+PHP function to convert number to words. 
+
